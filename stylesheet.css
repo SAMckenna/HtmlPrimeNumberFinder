@@ -1,0 +1,64 @@
+body {
+margin 5px;
+background-color: rgb(255,255,125);
+}
+
+h1 {
+text-decoration: underline;
+font-weight: bold;
+font-size: 2em;
+margin: 5px;
+}
+
+button {
+min-width: 100px;
+text-align: center;
+font-weight: bold;
+font-size: 1.0em;
+background-color: rgb(0,255,0);
+border: 5px outset rgb(0,255,0);
+border-radius: 5px;
+margin: 5px;
+}
+
+#output {
+background-color: rgb(200,255,255);
+border: 1px solid black;
+border-radius: 5px;
+min-height: 25px;
+font-size: 1.5em;
+margin: 5px;
+}
+
+.DangerousButton {
+background-color: red;
+border: 5px outset red;
+}
+
+.warning {
+background-color: yellow;
+border: 5px outset yellow;
+}
+
+#controls {
+background-color: rgb(200,200,200);
+border: 1px solid black;
+border-radius: 5px;
+margin: 5px;
+}
+
+#settings {
+background-color: rgb(200,200,200);
+border: 1px solid black;
+border-radius: 5px;
+margin: 5px;
+}
+
+input {
+margin: 5px;
+border-radius: 5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+margin: 10px 5px;
+}
